@@ -1,0 +1,3 @@
+C:/Users/sakur/CLionProjects/2025_0509_programming2/cmake-build-debug/CMakeFiles/2025_0509_programming2.dir
+C:/Users/sakur/CLionProjects/2025_0509_programming2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/sakur/CLionProjects/2025_0509_programming2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
